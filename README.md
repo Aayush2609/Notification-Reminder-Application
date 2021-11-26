@@ -1,6 +1,8 @@
 -----------------------------------------
 # Notification-Reminder-Application
 -----------------------------------------
+![image](https://user-images.githubusercontent.com/83708248/143540718-a5742cb7-a455-49fa-990e-89c5196d21ba.png)
+![image](https://user-images.githubusercontent.com/83708248/143540752-ea61a760-7201-45ba-b996-f434f47fdebf.png)
 
 No matter how well you set up your to-do list and calendar, you aren’t going to get things done unless you have a reliable way of reminding yourself to actually do them.
 
